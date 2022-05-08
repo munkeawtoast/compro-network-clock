@@ -1,5 +1,3 @@
-Docs
-
 #include <WiFi.h>
 #include "time.h"
 #include <PubSubClient.h>
