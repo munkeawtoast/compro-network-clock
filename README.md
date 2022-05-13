@@ -337,15 +337,16 @@ void loop() {
   // }
 }
   ```
-<details>
+</details>
 
 ## Demonstration Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WprAIt0EywY/0.jpg)](https://www.youtube.com/watch?v=WprAIt0EywY)
+https://www.youtube.com/watch?v=WprAIt0EywY
 
 	
 ## สมาชิก
-64070203 นาย ภัทรชัย เทิบจันทึก
-64070214 นางสาว เมธานุช บุญไทย
-64070222 นาย เลิศนริทธิ์ เทอดสถีรศักดิ์
-64070223 นาย วงศพัทธ์ พันธุประภาส
+
+- 64070203 นาย ภัทรชัย เทิบจันทึก
+- 64070214 นางสาว เมธานุช บุญไทย 
+- 64070222 นาย เลิศนริทธิ์ เทอดสถีรศักดิ์
+- 64070223 นาย วงศพัทธ์ พันธุประภาส
